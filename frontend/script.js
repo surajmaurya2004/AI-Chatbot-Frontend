@@ -1,5 +1,5 @@
-const API_URL = "http://localhost:5000/api/chat";
-const NEW_CHAT_URL = "http://localhost:5000/api/new-chat";
+const API_URL = "https://ai-chatbot-frontend-y7cw.onrender.com/api/chat";
+const NEW_CHAT_URL = "https://ai-chatbot-frontend-y7cw.onrender.com/api/new-chat";
 
 
 // ===============================
